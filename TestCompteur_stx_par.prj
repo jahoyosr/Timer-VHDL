@@ -1,0 +1,2 @@
+vhdl isim_temp "netgen/par/compteur8bits_timesim.vhd"
+vhdl isim_temp "TestCompteur.vhd"

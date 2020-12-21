@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "/home/hoyosrod/Compteur/CLKDiviseur.xst" -ofn "/home/hoyosrod/Compteur/CLKDiviseur.syr" 
+xst -intstyle ise -ifn "/home/hoyosrod/Compteur/CLKDiviseur.xst" -ofn "/home/hoyosrod/Compteur/CLKDiviseur.syr" 
+xst -intstyle ise -ifn "/home/hoyosrod/Compteur/CLKDiviseur.xst" -ofn "/home/hoyosrod/Compteur/CLKDiviseur.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-3 CLKDiviseur.ngc CLKDiviseur.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o CLKDiviseur_map.ncd CLKDiviseur.ngd CLKDiviseur.pcf 
+par -w -intstyle ise -ol high -mt off CLKDiviseur_map.ncd CLKDiviseur.ncd CLKDiviseur.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml CLKDiviseur.twx CLKDiviseur.ncd -o CLKDiviseur.twr CLKDiviseur.pcf 

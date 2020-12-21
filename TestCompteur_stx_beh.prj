@@ -1,0 +1,2 @@
+vhdl isim_temp "compteur8bits.vhd"
+vhdl isim_temp "TestCompteur.vhd"

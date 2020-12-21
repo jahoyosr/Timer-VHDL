@@ -1,0 +1,4 @@
+vhdl work "compteur8bits.vhd"
+vhdl work "CLKDiviseur.vhd"
+vhdl work "TOP.vhd"
+vhdl work "TestTOP.vhd"

@@ -1,0 +1,4 @@
+vhdl isim_temp "compteur8bits.vhd"
+vhdl isim_temp "CLKDiviseur.vhd"
+vhdl isim_temp "TOP.vhd"
+vhdl isim_temp "TestTOP.vhd"

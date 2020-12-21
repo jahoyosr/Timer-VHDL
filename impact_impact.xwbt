@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/hoyosrod/Compteur/impact.xsl
+OUTFILE=/home/hoyosrod/Compteur/impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=/home/hoyosrod/Compteur
+LICENSE=iMPACT
+USER_INFO=iMPACT

@@ -1,0 +1,2 @@
+vhdl work "netgen/par/compteur8bits_timesim.vhd"
+vhdl work "TestCompteur.vhd"

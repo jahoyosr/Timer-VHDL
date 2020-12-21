@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/hoyosrod/Compteur/TestTOP_isim_beh.exe" -prj "/home/hoyosrod/Compteur/TestTOP_beh.prj" "work.TestTOP" 

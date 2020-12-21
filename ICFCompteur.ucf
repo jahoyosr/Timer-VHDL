@@ -1,0 +1,23 @@
+NET "CKE" LOC=V10;
+NET "RSTT" LOC=A8;
+NET "SENST" LOC=C4;
+NET "LOADT" LOC=C9;
+NET "ENT" LOC=D9;
+
+NET "DinT[0]" LOC=T10;
+NET "DinT[1]" LOC=T9;
+NET "DinT[2]" LOC=V9;
+NET "DinT[3]" LOC=M8;
+NET "DinT[4]" LOC=N8;
+NET "DinT[5]" LOC=U8;
+NET "DinT[6]" LOC=V8;
+NET "DinT[7]" LOC=T5;
+
+NET "DoutT[0]" LOC=U16;
+NET "DoutT[1]" LOC=V16;
+NET "DoutT[2]" LOC=U15;
+NET "DoutT[3]" LOC=V15;
+NET "DoutT[4]" LOC=M11;
+NET "DoutT[5]" LOC=N11;
+NET "DoutT[6]" LOC=R11;
+NET "DoutT[7]" LOC=T11;
